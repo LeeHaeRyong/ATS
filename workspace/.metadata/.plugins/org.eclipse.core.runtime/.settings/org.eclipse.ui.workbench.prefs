@@ -1,0 +1,5 @@
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTcom.inswave.websquare.ui.iceCategory
+ColorsAndFontsPreferencePage.selectedElement=Fcom.inswave.websquare.ui.iceFont
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+com.inswave.websquare.ui.iceFont=1|Consolas|10.875|0|WINDOWS|1|-29|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+eclipse.preferences.version=1

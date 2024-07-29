@@ -1,0 +1,17 @@
+[2024-07-24 08:07:33] Executing startup tasks
+[2024-07-24 08:07:33] Java(TM) SE Runtime Environment 1.8.0_411-b09
+[2024-07-24 08:07:33] Product self.product.version
+[2024-07-24 08:07:33] Workspace C:\ATS\workspace
+[2024-07-24 08:07:33] Bundle org.eclipse.oomph.setup 1.17.0.v20200606-0914, build=4683, branch=11a8454bc4da69195dc3e9f065bbd8fe43f77e1e
+[2024-07-24 08:07:33] Bundle org.eclipse.oomph.setup.core 1.17.0.v20200531-1047, build=4683, branch=11a8454bc4da69195dc3e9f065bbd8fe43f77e1e
+[2024-07-24 08:07:33] Bundle org.eclipse.oomph.setup.p2 1.15.0.v20200531-1047, build=4683, branch=11a8454bc4da69195dc3e9f065bbd8fe43f77e1e
+[2024-07-24 08:07:33] Performing Preference /instance/org.eclipse.e4.ui.css.swt.theme/themeid = org.eclipse.e4.ui.css.theme.e4_default
+[2024-07-24 08:07:33] Performing Preference /instance/org.eclipse.e4.ui.workbench.renderers.swt/enableMRU = true
+[2024-07-24 08:07:33] Performing Preference /instance/org.eclipse.e4.ui.workbench.renderers.swt/themeEnabled = true
+[2024-07-24 08:07:33] Performing Preference /instance/org.eclipse.e4.ui.workbench.renderers.swt/USE_ROUND_TABS = false
+[2024-07-24 08:07:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = C:\WebSquareKitTools\maven\settings.xml
+[2024-07-24 08:07:35] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = C:\WebSquareKitTools\maven\settings.xml
+[2024-07-24 08:07:35] Performing Preference /instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories = Torg.eclipse.ui.workbenchMisc...
+[2024-07-24 08:07:35] Performing Preference /instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement = Fcom.inswave.websquare.ui.iceFont
+[2024-07-24 08:07:35] Performing Preference /instance/org.eclipse.ui.workbench/com.inswave.websquare.ui.iceFont = 1|Consolas|10.875|0|WINDOWS|1|-29|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+[2024-07-24 08:07:35] 
